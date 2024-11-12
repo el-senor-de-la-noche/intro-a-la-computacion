@@ -1,0 +1,48 @@
+Autor(es): Gabriel Alonso Paredes Fuentes y Daniel Navarrete Silva 
+
+Cantidad de aves muertas por región:
+
+Nombre de la región: Arica y Parinacota: 31825 muertes
+
+Nombre de la región: Antofagasta: 24263 muertes
+
+Nombre de la región: Tarapaca: 4882 muertes
+
+Nombre de la región: Atacama: 8157 muertes
+
+Nombre de la región: Coquimbo: 5221 muertes
+
+Nombre de la región: Maule: 3274 muertes
+
+Nombre de la región: Valparaiso: 7353 muertes
+
+Nombre de la región: O´Higgins: 1134 muertes
+
+Nombre de la región: nuble: 301 muertes
+
+Nombre de la región: Biobio: 6325 muertes
+
+Nombre de la región: Araucania: 25 muertes
+
+Nombre de la región: Los Rios: 666 muertes
+
+Nombre de la región: Los Lagos: 62 muertes
+
+Nombre de la región: Magallanes: 282 muertes
+
+Nombre de la región: Iquique: 2 muertes
+
+Nombre de la región: Aysen: 9 muertes
+
+Nombre de la región: Taltal: 179 muertes
+
+Nombre de la región: Tocopilla: 107 muertes
+
+Nombre de la región: AricaParinacota: 10 muertes
+
+Nombre de la región: : 2 muertes
+
+
+Casos aves muertas mes enero del año 2023: 0
+En la comuna de Cartagena se detectaron 0 Taguas muertas.
+Las muertes detectadas para el 12 de febrero del 2023 de la especie Piquero - (Sula variegata) son: 31
